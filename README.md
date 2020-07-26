@@ -5,6 +5,6 @@
 
 [Урок_13](ss1956.github.io/lesson_13/)
 
-[Урок_14ъ(ss1956.github.io/lesson_14/)
+[Урок_14](ss1956.github.io/lesson_14/)
 
 
